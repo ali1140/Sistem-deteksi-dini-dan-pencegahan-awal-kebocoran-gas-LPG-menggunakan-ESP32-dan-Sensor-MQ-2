@@ -37,6 +37,11 @@ Pada arsitektur *production* terdesentralisasi:
 ---
 
 ## Spesifikasi Perangkat Keras
+
+<div align="center">
+  <img src="assets/rangkaian_lpg.png" width="600" alt="Desain Rangkaian Elektrik Sistem LPG">
+</div>
+
 - **Mikrokontroler Utama:** ESP32
 - **Komputasi Edge (Broker):** Raspberry Pi 3 Model B
 - **Sensor:** 2x Sensor Gas MQ-2
