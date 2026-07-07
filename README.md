@@ -39,7 +39,7 @@ Pada arsitektur *production* terdesentralisasi:
 ## Spesifikasi Perangkat Keras
 
 <div align="center">
-  <img src="assets/rangkaian_lpg.png" width="600" alt="Desain Rangkaian Elektrik Sistem LPG">
+  <img src="assets/rangkaian_lpg_correct.png" width="600" alt="Desain Rangkaian Elektrik Sistem LPG">
 </div>
 
 - **Mikrokontroler Utama:** ESP32
